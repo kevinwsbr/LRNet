@@ -1,3 +1,7 @@
+# Dupla
+ - Kevin Washington
+ - Valério Júnior
+
 # Instalação de dependências
 
 
