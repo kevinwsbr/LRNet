@@ -265,7 +265,7 @@ ax.set_title('Número de exemplos por classe');
 
 
     
-![png](output_9_0.png)
+![png](Imagens/output_9_0.png)
     
 
 
@@ -1715,61 +1715,61 @@ for i, ds in enumerate([dataset1, dataset2]):
 
 
     
-![png](output_26_0.png)
+![png](Imagens/output_26_0.png)
     
 
 
 
     
-![png](output_26_1.png)
+![png](Imagens/output_26_1.png)
     
 
 
 
     
-![png](output_26_2.png)
+![png](Imagens/output_26_2.png)
     
 
 
 
     
-![png](output_26_3.png)
+![png](Imagens/output_26_3.png)
     
 
 
 
     
-![png](output_26_4.png)
+![png](Imagens/output_26_4.png)
     
 
 
 
     
-![png](output_26_5.png)
+![png](Imagens/output_26_5.png)
     
 
 
 
     
-![png](output_26_6.png)
+![png](Imagens/output_26_6.png)
     
 
 
 
     
-![png](output_26_7.png)
+![png](Imagens/output_26_7.png)
     
 
 
 
     
-![png](output_26_8.png)
+![png](Imagens/output_26_8.png)
     
 
 
 
     
-![png](output_26_9.png)
+![png](Imagens/output_26_9.png)
     
 
 
@@ -1968,7 +1968,7 @@ plot_confusion_matrix(results[1], 'InceptionV3', 1, dataset1)
 
 
     
-![png](output_33_0.png)
+![png](Imagens/output_33_0.png)
     
 
 
